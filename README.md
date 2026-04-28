@@ -1,2 +1,9 @@
-# Monitor-Wallet-Balance
-Monitor Wallet Balance
+# Wallet Balance Monitor
+
+Monitor wallet balance changes on Base.
+
+## Install
+npm install ethers
+
+## Run
+node balanceMonitor.js
